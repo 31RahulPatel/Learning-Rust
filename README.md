@@ -1,4 +1,2 @@
 # Learning-Rust
-# Learning-Rust
-# Learning-Rust
-# Learning-Rust
+cargo run --bin print
